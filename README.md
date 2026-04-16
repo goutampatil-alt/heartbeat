@@ -22,9 +22,6 @@ When abnormal readings are detected, the system automatically sends email alerts
 
 ---
 
-## 🎥 Demo
-
-*(Add screenshots or screen recording here)*
 
 ---
 
