@@ -1,0 +1,8 @@
+/build
+
+# Firebase configuration (contains sensitive data)
+google-services.json
+
+# Signing keys
+*.keystore
+*.jks
